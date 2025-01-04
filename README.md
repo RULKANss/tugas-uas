@@ -8,7 +8,7 @@ Program ini adalah sistem parkiran kendaraan yang mengelola parkir untuk dua jen
 - Melihat status parkir saat ini.
 
 ## flowchart
-
+![flocart1](/flocart)
 
 
 
